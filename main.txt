@@ -1,3 +1,8 @@
 How to escape "Please enter a commit message to explain why this merge is necessary"
 
 https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially
+
+
+"nodemon server" command error.
+
+https://stackoverflow.com/questions/60431996/mongooseerror-mongooseserverselectionerror-connection-monitor-to-52-6-250-2/60863977#60863977
