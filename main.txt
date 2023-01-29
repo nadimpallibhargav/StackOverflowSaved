@@ -6,3 +6,8 @@ https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-ex
 "nodemon server" command error.
 
 https://stackoverflow.com/questions/60431996/mongooseerror-mongooseserverselectionerror-connection-monitor-to-52-6-250-2/60863977#60863977
+
+
+"next js issue with react quill"
+
+https://stackoverflow.com/questions/73047747/error-referenceerror-document-is-not-defined-nextjs
